@@ -1,0 +1,2 @@
+Interactive game using HTML, CSS, and JavaScript, where players roll a dice by pressing a button. If the dice shows a 1, the turn switches to the next player, and the accumulated points are lost. Players can also save their points to avoid risks and pass the turn. This project is part of the course "The Complete JavaScript Course 2024: From Zero to Expert", designed to practice advanced DOM manipulation skills.
+
